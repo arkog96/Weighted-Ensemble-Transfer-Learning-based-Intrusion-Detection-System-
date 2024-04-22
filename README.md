@@ -10,11 +10,11 @@ In our digitally interconnected world, the demand for robust security measures h
 
 **<p align="center">Figure 2: Generated RGB image samples from tabular data: (a) normal flow; (b) attack flow.</p>**
 <p align="center">
-<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Generated%20RGB%20Images.jpg" width="450" />
+<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Generated%20RGB%20Images.jpg" width="400" />
 </p>
 
 **<p align="center">Figure 3: Feature Significance Analysis Using Chi-Square p-Value.</p>**
 <p align="center">
-<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Chi-square.jpg" width="450" />
+<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Chi-square.jpg" width="500" />
 </p>
 
