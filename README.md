@@ -8,7 +8,7 @@ In our digitally interconnected world, the demand for robust security measures h
 <img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/ME-IDS%20Framework.jpg" width="450" />
 </p>
 
-**<p align="center">Figure 1: Generated RGB image samples from tabular data: (a) normal flow; (b) attack flow.</p>**
+**<p align="center">Figure 2: Generated RGB image samples from tabular data: (a) normal flow; (b) attack flow.</p>**
 <p align="center">
 <img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Generated%20RGB%20Images.jpg" width="450" />
 </p>
