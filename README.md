@@ -5,6 +5,6 @@ In our digitally interconnected world, the demand for robust security measures h
 
 **<p align="center">Figure 1: System architecture of ME-IDS.</p>**
 <p align="center">
-<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/ME-IDS%20Framework.jpg" width="250" />
+<img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/ME-IDS%20Framework.jpg" width="350" />
 </p>
 
