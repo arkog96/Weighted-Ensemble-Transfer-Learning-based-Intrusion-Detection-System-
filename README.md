@@ -41,8 +41,8 @@ The performance of the proposed ME-IDS framework is assessed against three bench
  * [Scikit-learn](https://scikit-learn.org/)
  * [Tensorflow 2.8.0](https://pypi.org/project/tensorflow/2.8.0/)
  * [Keras 2.8.0](https://pypi.org/project/keras/)
- * [Pillow (PIL)]
- * [OpenCV](https://pillow.readthedocs.io/)
+ * [Pillow (PIL)](https://pillow.readthedocs.io/)
+ * [OpenCV](https://opencv.org/)
  * [Hyperopt](http://hyperopt.github.io/hyperopt/)
 
 ## Contact Information
