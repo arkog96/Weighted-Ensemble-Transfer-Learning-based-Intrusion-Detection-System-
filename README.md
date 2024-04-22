@@ -21,7 +21,7 @@ In our digitally interconnected world, the demand for robust security measures h
 ## Performance Evaluation 
 The performance of the proposed ME-IDS framework is assessed against three benchmark ensemble methods, namely Stacked Ensemble, Concatenation Ensemble, and Confidence Averaging, as well as the three base classifiers used in the proposed weighted ensemble schemes within the framework.
 
-<center>
+<p align="center">
 | Method          | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |-----------------:|:----------:|:----------:|:----------:|:----------:|
 | Stacked Ensemble| 85.85    | 87.47     | 84.75  | 85.29    |
@@ -31,4 +31,4 @@ The performance of the proposed ME-IDS framework is assessed against three bench
 | VGG16-TPE       | 99.15    | 99.17     | 99.11  | 99.14    |
 | VGG16-RS        | 99.43    | 99.43     | 99.43  | 99.43    |
 | ME-IDS          | 99.72    | 99.74     | 99.68  | 99.71    |
-</center>
+</p>
