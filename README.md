@@ -36,3 +36,10 @@ The performance of the proposed ME-IDS framework is assessed against three bench
 <img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Performance%20Improvement.jpg" width="450" />
 </p>
 
+
+
+
+## Contact Information
+In case of any enquiry, question or collaboration opportunities, kindly reach out to me at:
+* Email: [arka.ghosh@dal.ca](mailto:arka.ghosh@dal.ca)
+* LinkedIn: [Arka Ghosh](https://www.linkedin.com/in/llarkaghoshll/) 
