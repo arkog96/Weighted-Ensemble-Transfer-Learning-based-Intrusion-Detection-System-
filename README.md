@@ -36,8 +36,14 @@ The performance of the proposed ME-IDS framework is assessed against three bench
 <img src="https://github.com/arkog96/Weighted-Ensemble-Transfer-Learning-based-Intrusion-Detection-System-/blob/main/Figures/Performance%20Improvement.jpg" width="450" />
 </p>
 
-
-
+## System Requirement
+ * Python 3.8
+ * [Scikit-learn](https://scikit-learn.org/)
+ * [Tensorflow 2.8.0](https://pypi.org/project/tensorflow/2.8.0/)
+ * [Keras 2.8.0](https://pypi.org/project/keras/)
+ * [Pillow (PIL)]
+ * [OpenCV](https://pillow.readthedocs.io/)
+ * [Hyperopt](http://hyperopt.github.io/hyperopt/)
 
 ## Contact Information
 In case of any enquiry, question or collaboration opportunities, kindly reach out to me at:
