@@ -48,4 +48,19 @@ The performance of the proposed ME-IDS framework is assessed against three bench
 ## Contact Information
 In case of any enquiry, question or collaboration opportunities, kindly reach out to me at:
 * Email: [arka.ghosh@dal.ca](mailto:arka.ghosh@dal.ca)
-* LinkedIn: [Arka Ghosh](https://www.linkedin.com/in/llarkaghoshll/) 
+* LinkedIn: [Arka Ghosh](https://www.linkedin.com/in/llarkaghoshll/)
+
+## Citation
+
+If you find the resources within this repository helpful, kindly cite this using: 
+```
+@INPROCEEDINGS{10901168,
+  author={Ghosh, Arka and Ye, Qiang},
+  booktitle={GLOBECOM 2024 - 2024 IEEE Global Communications Conference}, 
+  title={ME-IDS: An Ensemble Transfer Learning Framework Based on Misclassified Samples for Intrusion Detection Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2383-2388},
+  doi={10.1109/GLOBECOM52923.2024.10901168}}
+```
